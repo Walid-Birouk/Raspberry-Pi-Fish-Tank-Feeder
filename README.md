@@ -37,7 +37,7 @@ This project is an automated fish tank feeder system that utilizes a Raspberry P
 
 ### Setup
 
-![Setup](./setup.png)
+![Setup](./Setup.png)
 
 
 1. **Hardware Setup**:
