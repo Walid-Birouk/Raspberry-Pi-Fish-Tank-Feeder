@@ -1,4 +1,3 @@
-Creating a comprehensive README is crucial for effectively communicating the purpose, setup, and usage of your project to others. Below is a template for a README file for your fish tank feeder project. You can adjust the content to fit your project's specifics more closely.
 
 ---
 
