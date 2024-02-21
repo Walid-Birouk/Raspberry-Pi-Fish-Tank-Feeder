@@ -1,0 +1,3 @@
+RPi.GPIO
+adafruit-circuitpython-pcd8544
+Pillow
